@@ -4,7 +4,18 @@
 Historical research and documentation repository - primarily Markdown, with future media assets and potential web frontend.
 
 ## Build/Test Commands
-No build system currently configured. Future additions may include static site generators (Jekyll, Hugo, or MkDocs).
+- **Build**: No build system configured yet; future static site generators (Jekyll, Hugo, MkDocs)
+- **Test**: No tests configured; run `npm test` or `pytest` when added
+- **Lint**: Run `npm run lint` or `eslint .` for JS/TS; `ruff check .` for Python
+- **Single Test**: `npm test -- <test-file>` or `pytest <test-file>` when testing framework added
+
+## Code Style Guidelines
+- **Imports**: Group by external libraries first, then internal modules; sort alphabetically
+- **Formatting**: Use Prettier for JS/TS; Black for Python; consistent indentation (2 spaces JS, 4 spaces Python)
+- **Types**: Use TypeScript for type safety; add JSDoc/Pydoc for complex functions
+- **Naming**: camelCase for JS/TS variables/functions; snake_case for Python; PascalCase for classes/components
+- **Error Handling**: Use try/catch in JS/TS; explicit exception handling in Python; log errors appropriately
+- **Commits**: Use conventional commits; run lint/typecheck before committing
 
 ## Content Guidelines
 - **File Format**: Markdown (.md) for all written content; follow CommonMark specification
