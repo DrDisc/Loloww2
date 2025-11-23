@@ -166,7 +166,7 @@ At just **19 years old** when captured, Sulpicio was among the **youngest soldie
 
 Based on Philippine Division composition on Bataan:
 
-| Unit | Approximate Strength | Percentage | Probability for Felino |
+| Unit | Approximate Strength | Percentage | Probability for Sulpicio |
 |------|---------------------|------------|------------------------|
 | 45th Infantry (PS) | 2,000 | 24% | **HIGH (35-40%)** |
 | 57th Infantry (PS) | 2,000 | 24% | **HIGH (35-40%)** |
@@ -190,7 +190,7 @@ Based on Philippine Division composition on Bataan:
 - Standard rifleman or machine gunner most common role
 
 **What this means**:
-- Felino likely fought in the defensive lines
+- Sulpicio likely fought in the defensive lines as a basic rifleman
 - Experienced intense combat on Abucay or Orion-Bagac lines
 - Standard infantry weapons: M1 Garand rifle, BAR, or machine gun
 - Part of a rifle company or weapons company
@@ -270,7 +270,7 @@ Based on Philippine Division composition on Bataan:
 
 **Unit Rosters (Most Important):**
 - NARA holds Philippine Division unit rosters
-- Search for "Surpicio, Felino" in:
+- Search for "Maglanoc, Sulpicio" or "Sulpicio P. Maglanoc" in:
   - 45th Infantry Regiment muster rolls
   - 57th Infantry Regiment muster rolls
   - 26th Cavalry Regiment muster rolls
@@ -294,7 +294,7 @@ Based on Philippine Division composition on Bataan:
 
 ### Step 1: NARA Records Request
 Submit **SF-180 form** to National Archives requesting:
-- Complete military service record for Felino Surpicio
+- Complete military service record for Sulpicio P. Maglanoc
 - Search alternative spellings: Surpisio, Surpizio, Surpricio
 - Request Philippine Division unit rosters 1941-1942
 
@@ -325,7 +325,7 @@ Search online databases:
 ---
 
 ### Step 4: Family Documentation
-Search for any documents Felino may have kept:
+Search for any documents Sulpicio may have kept:
 - **Discharge papers** (DD-214 or equivalent)
 - **Dog tags** (would have service number and unit)
 - **Photographs** in uniform (unit patch might be visible)
@@ -364,7 +364,7 @@ To definitively identify his unit, we need **ONE** of the following:
 **Based on statistical analysis and what we know:**
 
 ### Primary Hypothesis (75% confidence):
-**Felino Surpicio served in either the 45th or 57th Infantry Regiment (Philippine Scouts)**
+**Sulpicio P. Maglanoc served in either the 45th or 57th Infantry Regiment (Philippine Scouts)**
 
 **Reasoning:**
 - Infantry made up ~50% of Scout forces on Bataan
@@ -374,7 +374,7 @@ To definitively identify his unit, we need **ONE** of the following:
 - Standard combat infantry most common role
 
 ### Secondary Hypothesis (20% confidence):
-**Felino Surpicio served in the 26th Cavalry Regiment (Philippine Scouts)**
+**Sulpicio P. Maglanoc served in the 26th Cavalry Regiment (Philippine Scouts)**
 
 **Reasoning:**
 - Elite unit with distinctive history
@@ -382,7 +382,7 @@ To definitively identify his unit, we need **ONE** of the following:
 - Possible if he had prior cavalry training
 
 ### Tertiary Hypothesis (5% confidence):
-**Felino Surpicio served in artillery or support units**
+**Sulpicio P. Maglanoc served in artillery or support units**
 
 ---
 
@@ -409,7 +409,7 @@ To definitively identify his unit, we need **ONE** of the following:
 
 ## Questions for Family Members
 
-If any family members remember Felino's stories, ask:
+If any family members remember Sulpicio's stories, ask:
 
 1. Did he ever mention a number when talking about his unit? (45th, 57th, 26th, etc.)
 2. Did he talk about fighting from foxholes and trenches? (Infantry)

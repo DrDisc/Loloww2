@@ -14,7 +14,7 @@
 ### I. Introduction: A Grandfather's Legacy (800-1000 words)
 **Purpose:** Establish personal connection and article scope
 
-- Opening: Personal reflection on Felino Surpicio's service
+- Opening: Personal reflection on Sulpicio P. Maglanoc's service
 - The yellow carabao insignia - a symbol of Filipino courage
 - Brief overview of Philippine Scouts and their role in WWII
 - Thesis: Filipino soldiers fought with exceptional courage despite colonial complexities
@@ -27,7 +27,7 @@
 - Transition to historical context
 
 **Research Sources:**
-- `/family/felino-surpicio-research.md`
+- `/family/sulpicio-maglanoc-research.md`
 - `/research/philippine-scouts/philippine-scouts-comprehensive-research.md` (sections 1-2)
 
 ---
@@ -409,7 +409,7 @@
 ### X. Conclusion: Remembering the Fallen, Honoring the Survivors (800-1,000 words)
 **Purpose:** Synthesize themes and honor veterans
 
-#### A. Reflections on Felino Surpicio
+#### A. Reflections on Sulpicio P. Maglanoc
 - Personal connection to history
 - Grandfather's survival and life after war
 - What his service represents
@@ -538,7 +538,7 @@
 ## Research Gaps to Fill
 
 ### Priority Research Needed
-1. **Felino Surpicio specific information**
+1. **Sulpicio P. Maglanoc specific information**
    - Submit NARA records request
    - Contact PVAO
    - Search survivor databases
@@ -634,4 +634,4 @@
 
 **Document Status:** Comprehensive Outline Complete  
 **Next Action:** Begin drafting Section I  
-**Research Status:** 80% complete, needs Felino Surpicio records and additional testimonials
+**Research Status:** 80% complete, needs Sulpicio P. Maglanoc records and additional testimonials

@@ -389,7 +389,7 @@ Repository Name, Collection Name, Box/Folder Number, Document Description.
 - ⬜ Philippine historian works (Jose, Agoncillo)
 
 ### Archives to Contact
-- ⬜ NARA - Felino Surpicio service records
+- ⬜ NARA - Sulpicio P. Maglanoc service records (birth date: May 2, 1922)
 - ⬜ MacArthur Memorial Archives
 - ⬜ PVAO - Philippine records
 - ⬜ Veterans History Project - search interviews

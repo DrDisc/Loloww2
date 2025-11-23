@@ -161,7 +161,7 @@ This repository contains research, sources, and content for a long-form historic
 /media             - Images, maps, historical photos
 /video-scripts     - Scripts for video shorts campaign
 /sources           - Bibliography and source documents
-/family            - Felino Surpicio research materials
+/family            - Sulpicio P. Maglanoc research materials
 ```
 
 ---

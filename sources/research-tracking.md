@@ -14,9 +14,9 @@ This document tracks research progress for the Lolo's War project.
 | Bataan Death March | ✅ Complete | High | Included in Philippine Scouts research |
 | POW Camps | ✅ Complete | Medium | Camp O'Donnell, Cabanatuan documented |
 | Guerrilla Resistance | ✅ Complete | Medium | Former Scouts activities documented |
-| Spanish Colonization | 🔄 In Progress | Medium | Pending full research |
-| American Commonwealth | 🔄 In Progress | Medium | Basic overview complete |
-| Felino Surpicio Records | ❌ Not Started | High | Requires archive access |
+| Spanish Colonization | ✅ Complete | Medium | Comprehensive file created |
+| American Commonwealth | ✅ Complete | Medium | Full research complete |
+| Sulpicio P. Maglanoc Records | ❌ Not Started | High | Requires archive access |
 | Japanese Perspectives | ❌ Not Started | Medium | Need Japanese sources |
 | Liberation Campaigns | ❌ Not Started | Low | 1944-1945 period |
 
@@ -27,7 +27,7 @@ This document tracks research progress for the Lolo's War project.
 ### To Contact
 - [ ] **Philippine Veterans Affairs Office (PVAO)**
   - Website: [pvao.gov.ph](https://pvao.gov.ph)
-  - Purpose: Search for Felino Surpicio service records
+  - Purpose: Search for Sulpicio P. Maglanoc service records
   - Contact method: Email/phone inquiry
   
 - [ ] **National Historical Commission of the Philippines (NHCP)**
@@ -60,7 +60,7 @@ This document tracks research progress for the Lolo's War project.
 - [ ] **US National Archives (NARA)**
   - Location: College Park, MD
   - Purpose: Philippine Scouts service records, unit rosters
-  - Search terms: "Felino Surpicio", "Philippine Division", "Bataan"
+  - Search terms: "Sulpicio P. Maglanoc", "Maglanoc", "Philippine Division", "Bataan", birth date: "May 2, 1922"
   
 - [ ] **US Army Center of Military History**
   - Purpose: Official histories, battle reports
@@ -79,7 +79,7 @@ This document tracks research progress for the Lolo's War project.
 - [ ] **National Personnel Records Center**
   - Location: St. Louis, MO
   - Phone: 1-314-801-0800
-  - Purpose: Request Felino Surpicio's official military personnel file
+  - Purpose: Request Sulpicio P. Maglanoc's official military personnel file
 
 ### Recommended American Historians
 - [ ] **Louis Morton** - *The Fall of the Philippines* (1953) ✅ Referenced
@@ -177,20 +177,20 @@ This document tracks research progress for the Lolo's War project.
 
 ## Research Not Started
 
-### ❌ Felino Surpicio Service Records
+### ❌ Sulpicio P. Maglanoc Service Records
 
 **Action Items:**
-1. Submit NARA request for military personnel file
+1. Submit NARA request for military personnel file (using birth date: May 2, 1922)
 2. Contact PVAO for Philippine records
 3. Search Bataan Death March survivor databases
-4. Check Philippine Division roster records (if available)
+4. Check Philippine Division roster records (45th and 57th Infantry priority)
 5. Search Veterans History Project oral histories
 
 **Alternative Spellings to Search:**
-- Felino Surpicio
-- Felino Surpisio
-- Felino Surpizio
-- Felino Surpricio
+- Sulpicio P. Maglanoc
+- Sulpisio Maglanoc
+- Maglanok, Sulpicio
+- Maglañoc, Sulpicio
 
 **Information to Find:**
 - Full name and rank
@@ -242,7 +242,7 @@ This document tracks research progress for the Lolo's War project.
 ## Timeline for Research
 
 ### Immediate (Next 2 weeks)
-1. Submit NARA records request for Felino Surpicio
+1. Submit NARA records request for Sulpicio P. Maglanoc (using birth date May 2, 1922)
 2. Complete Spanish colonization background research
 3. Compile full bibliography
 4. Draft article outline

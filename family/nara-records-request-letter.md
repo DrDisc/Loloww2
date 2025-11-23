@@ -1,8 +1,8 @@
-# National Archives Records Request for Felino Surpicio
+# National Archives Records Request for Sulpicio P. Maglanoc
 
 ## Overview
 
-This document contains templates and guidance for requesting Felino Surpicio's military service records from the National Archives and Records Administration (NARA).
+This document contains templates and guidance for requesting Sulpicio P. Maglanoc's military service records from the National Archives and Records Administration (NARA).
 
 ---
 
@@ -250,16 +250,17 @@ Quezon City, Philippines 1110
 
 ---
 
-**Subject:** Request for Philippine Scout Service Records - Felino Surpicio, WWII Veteran
+**Subject:** Request for Philippine Scout Service Records - Sulpicio P. Maglanoc, WWII Veteran
 
 Dear PVAO Records Office,
 
-I am writing from [your country] to request military service records for my grandfather, **Felino Surpicio** (alternative spellings: Surpisio, Surpizio, Surpricio), who served as a Philippine Scout in the United States Army during World War II.
+I am writing from [your country] to request military service records for my grandfather, **Sulpicio P. Maglanoc** (alternative spellings: Sulpisio Maglanoc, Maglanok), who served as a Philippine Scout in the United States Army during World War II.
 
 **Known Information:**
-- **Name:** Felino Surpicio
+- **Name:** Sulpicio P. Maglanoc
+- **Birth Date:** May 2, 1922
 - **Service:** Philippine Scout, U.S. Army
-- **Unit:** Philippine Division
+- **Unit:** Philippine Division (likely 45th or 57th Infantry Regiment)
 - **Campaign:** Bataan, 1941-1942
 - **POW:** Bataan Death March survivor
 - **Camps:** Camp O'Donnell and/or Cabanatuan
@@ -292,14 +293,14 @@ Respectfully,
 ### Veterans History Project (Library of Congress)
 **Website:** https://www.loc.gov/vets/
 
-**Action:** Search their database for any interviews with Philippine Scouts named Surpicio
+**Action:** Search their database for any interviews with Philippine Scouts named Maglanoc
 
 ---
 
 ### American Defenders of Bataan and Corregidor (ADBC)
 **Website:** www.adbc-mso.org
 
-**Action:** Contact them to search membership records for Felino Surpicio
+**Action:** Contact them to search membership records for Sulpicio P. Maglanoc
 
 ---
 
