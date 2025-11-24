@@ -1,32 +1,58 @@
 Asset Name,Type,Source,Source URL,License,Cost,Status,Video Script,Notes,Attribution Required,File Location
-Philippine Scouts in uniform,Photo,NARA/Wikimedia,https://commons.wikimedia.org/wiki/Category:Philippine_Scouts,Public Domain,$0,FOUND - Search multiple sources,#1,Check Wikimedia Commons + NARA catalog,No,
-Close-up carabao patch,Photo,NARA/Wikimedia,https://catalog.archives.gov,Public Domain,$0,FOUND - Search NARA catalog,#1 #2,Search "Philippine Scouts" 1941-1942,No,
-Filipino-American officers,Photo,NARA,https://catalog.archives.gov,Public Domain,$0,FOUND - Search NARA catalog,#1,Search "Philippine Division" officers,No,
-26th Cavalry Regiment,Photo,NARA/PICRYL,https://picryl.com/topics/battle+of+the+philippines+1941+42,Public Domain,$0,FOUND - Ready to download,#3,26th Cav passing M3 Stuart tank Dec 10 1941,No,
-24th Field Artillery,Photo,NARA,,,Public Domain,$0,Searching,#3,Artillery crew/positions,No,
-Bataan defensive positions,Photo,NARA,,,Public Domain,$0,Searching,#3,Bunkers/trenches,No,
-Emaciated defenders,Photo,NARA,,,Public Domain,$0,Searching,#3,Handle respectfully,No,
-SGT Jose Calugas photo,Photo,NARA,https://artsandculture.google.com/asset/...,Public Domain,$0,FOUND - Ready to download,#3,NARA ID: 111-SC-205900 April 30 1945,No,
-2LT Alexander Nininger photo,Photo,NARA/PS Heritage,,,Public Domain,$0,Searching,#3,Medal of Honor recipient,No,
-1LT Willibald Bianchi photo,Photo,NARA/PS Heritage,,,Public Domain,$0,Searching,#3,Medal of Honor recipient,No,
-Philippine Division insignia,Graphic,Wikimedia/Heraldry,https://commons.wikimedia.org/wiki/File:12th_Infantry_Division_SSI.svg,Public Domain,$0,FOUND - SVG available,#1 #2,12th Inf Div (redesignated Philippine Div),No,
-Carabao shoulder patch,Graphic,Institute of Heraldry,https://tioh.army.mil/,Public Domain,$0,Contact for high-res,#1 #2,May need to request official files,No,
-Carabao in rice field,Footage,Videvo,https://www.videvo.net/stock-video-footage/carabao/,Free License,$0,FOUND - 49 videos available,#2,10-15 sec cinematic - select best 2-3,No,
-Philippine countryside,Footage,Pexels,https://www.pexels.com/search/videos/rice%20field/,Free License,$0,FOUND - 38781+ videos available,#1 #2,Jungle/mountains,No,
-Philippines overview map,Map,Create/Perry-Castañeda,,,Public Domain,$0,Pending,#1 #2,Modern clean version,No,
-Bataan tactical map,Map,NARA Cartographic,https://www.archives.gov/research/military/ww2/philippine/maps.html,Public Domain,$0,FOUND - Ready to search,#3,USAFFE era 1941-1945 maps available,No,
-Bataan maps collection,Map,PICRYL,https://picryl.com/topics/maps+of+the+battle+of+the+philippines+1941+42,Public Domain,$0,FOUND - 27 maps available,#3,Download all relevant Bataan maps,No,
-Pacific Theater map,Map,Create/Historical,,,Public Domain,$0,Pending,#2,Strategic position,No,
-Organizational chart,Graphic,Create,,,Original,$0,Pending,#2,Philippine Division structure,No,
-Fields of fire diagram,Graphic,Create/Commission,,,Original,$0-200,Pending,#3,Tactical illustration,No,
-Script 1 music track,Music,Epidemic Sound,,,Subscription,$15/mo,Pending,#1,Military cadence 60-90s,Check terms,
-Script 2 music track,Music,Epidemic Sound,,,Subscription,$15/mo,Pending,#2,Filipino-inspired 60-90s,Check terms,
-Script 3 music track,Music,Epidemic Sound,,,Subscription,$15/mo,Pending,#3,Tense/tactical 90-120s,Check terms,
-Text: Formed 1901,Graphic,Create,,,Original,$0,Pending,#1,Red/gold color scheme,No,
-Text: Strength 11972,Graphic,Create,,,Original,$0,Pending,#1,Red/gold color scheme,No,
-Text: Elite US Army,Graphic,Create,,,Original,$0,Pending,#1,Red/gold color scheme,No,
-Text: Filipino soldiers American command,Graphic,Create,,,Original,$0,Pending,#1,Red/gold color scheme,No,
-Text: Org chart labels,Graphic,Create,,,Original,$0,Pending,#2,31st/45th/57th/26th/24th,No,
-Text: Three MOH winners,Graphic,Create,,,Original,$0,Pending,#2,End card,No,
-Text: MOH recipients names,Graphic,Create,,,Original,$0,Pending,#3,Calugas/Nininger/Bianchi,No,
-Text: Battle of Points dates,Graphic,Create,,,Original,$0,Pending,#3,Jan 22-Feb 13 1942,No,
+Philippine_Scouts_1905.jpg,Photo,Wikimedia Commons,https://commons.wikimedia.org/wiki/Category:Philippine_Scouts,Public Domain,$0,ACQUIRED,#1,Early Philippine Scouts formation 1905,No,/media/photos/philippine-scouts/
+philippine-scouts-training-fort-mckinley.jpg,Photo,NARA/Wikimedia,https://commons.wikimedia.org/wiki/Category:Philippine_Scouts,Public Domain,$0,ACQUIRED,#1,Training at Fort McKinley pre-war,No,/media/photos/philippine-scouts/
+Instructing_Filipino_cadets.jpg,Photo,NARA/Wikimedia,https://catalog.archives.gov,Public Domain,$0,ACQUIRED,#1,US officers training Filipino cadets,No,/media/photos/philippine-scouts/
+Marines_teach_Filipino_cadets.jpg,Photo,NARA/Wikimedia,https://catalog.archives.gov,Public Domain,$0,ACQUIRED,#1,Marines training Filipino cadets,No,/media/photos/philippine-scouts/
+building_a_bridge.jpg,Photo,NARA/Wikimedia,https://catalog.archives.gov,Public Domain,$0,ACQUIRED,#1,Philippine Scouts engineering training,No,/media/photos/philippine-scouts/
+Marching.jpg,Photo,NARA/Wikimedia,https://catalog.archives.gov,Public Domain,$0,ACQUIRED,#1,Philippine Scouts marching,No,/media/photos/philippine-scouts/
+4th_Marines_at_the_philippines_in_January_1942.jpg,Photo,NARA,https://catalog.archives.gov,Public Domain,$0,ACQUIRED,#1 #3,4th Marines in Philippines Jan 1942,No,/media/photos/philippine-scouts/
+Philippine_Infantry_Division_Insignia.svg,Graphic,Wikimedia Commons,https://commons.wikimedia.org/wiki/File:12th_Infantry_Division_SSI.svg,Public Domain,$0,ACQUIRED,#1 #2,Carabao Division insignia SVG,No,/media/photos/insignia/
+carabao-division-insignia.svg,Graphic,Wikimedia Commons,https://commons.wikimedia.org/wiki/File:12th_Infantry_Division_SSI.svg,Public Domain,$0,ACQUIRED (DUPLICATE),#1 #2,Same as above - consider consolidating,No,/media/insignia/
+SergeantJoseCalugas_MedalOfHonor.jpg,Photo,NARA,https://catalog.archives.gov,Public Domain,$0,ACQUIRED,#3,Medal of Honor recipient Jose Calugas,No,/media/photos/medal-of-honor/
+Surrender_on_Bataan.jpg,Photo,US Army Signal Corps,https://catalog.archives.gov,Public Domain,$0,ACQUIRED,#3,Surrender April 9 1942,No,/media/photos/bataan/
+Surrender_of_American_troops_at_Corregidor.jpg,Photo,US Army Signal Corps,https://catalog.archives.gov,Public Domain,$0,ACQUIRED,#3,Corregidor surrender May 6 1942,No,/media/photos/bataan/
+1280px-Along_the_March_of_Death.jpg,Photo,US Army Signal Corps,https://catalog.archives.gov,Public Domain,$0,ACQUIRED,Script #4 (future),Bataan Death March - handle respectfully,No,/media/photos/bataan/
+March_of_Death_-_Resting_02.jpg,Photo,Japanese photographer (captured),https://catalog.archives.gov,Public Domain,$0,ACQUIRED,Script #4 (future),POWs resting during Death March,No,/media/photos/bataan/
+bataan-death-march-route.svg,Map,Created/NARA,https://catalog.archives.gov,Public Domain,$0,ACQUIRED,Script #4 (future),Death March route map,No,/media/photos/bataan/
+Japanese_light_tanks_moving_toward_Manila.jpg,Photo,US Army Signal Corps,https://catalog.archives.gov,Public Domain,$0,ACQUIRED,#3,Japanese Type 95 tanks Dec 1941,No,/media/photos/bataan/
+960px-JapaneseTroopsBataan1942.jpg,Photo,Japanese military,https://catalog.archives.gov,Public Domain,$0,ACQUIRED,#3,Japanese infantry on Bataan,No,/media/photos/bataan/
+960px-Tribune_Apr_24_1942.jpg,Photo,Manila Tribune,https://catalog.archives.gov,Public Domain,$0,ACQUIRED,#3,Japanese propaganda newspaper,No,/media/photos/bataan/
+Tank.jpg,Photo,US Army Signal Corps,https://catalog.archives.gov,Public Domain,$0,ACQUIRED,#3,Tank photo - verify subject,No,/media/photos/bataan/
+CornPipe.jpg,Photo,US Army Signal Corps,https://catalog.archives.gov,Public Domain,$0,ACQUIRED,Script #5 (future),MacArthur with corn pipe,No,/media/photos/GeneralMacarthur/
+WarPhoto.jpg,Photo,US Army Signal Corps,https://catalog.archives.gov,Public Domain,$0,ACQUIRED,Script #5 (future),MacArthur war photo,No,/media/photos/GeneralMacarthur/
+Luzon_Philippines1945.jpg,Photo,US Army Signal Corps,https://catalog.archives.gov,Public Domain,$0,ACQUIRED,Script #5 (future),MacArthur at Luzon 1945,No,/media/photos/GeneralMacarthur/
+USArmyForces_in_the_Philippines_December_1941.jpg,Map,US Army Center of Military History,https://history.army.mil/,Public Domain,$0,ACQUIRED,#1 #3,Disposition of forces Dec 8 1941,No,/media/maps/static/
+AdvanceJapaneseLandingsPhilippines_December8–20_1941.jpg,Map,US Army CMH,https://history.army.mil/,Public Domain,$0,ACQUIRED,#3,Japanese landings Dec 8-20,No,/media/maps/static/
+Japanese_Invasion_Lingayen_Gulf_December1941.jpg,Map,US Army CMH,https://history.army.mil/,Public Domain,$0,ACQUIRED,#3,Lingayen Gulf invasion,No,/media/maps/static/
+Lingayen_Gulf_landings_and_JapaneseAdvance_22-24December1941.jpg,Map,US Army CMH,https://history.army.mil/,Public Domain,$0,ACQUIRED,#3,Lingayen landings Dec 22-24,No,/media/maps/static/
+Lamon_Bay_Landings_Philippines_24December1941.jpg,Map,US Army CMH,https://history.army.mil/,Public Domain,$0,ACQUIRED,#3,Lamon Bay landings Dec 24,No,/media/maps/static/
+960px-Japanese_Operations_on_Luzon_Dec_1941.jpg,Map,US Army CMH,https://history.army.mil/,Public Domain,$0,ACQUIRED,#3,Overview of Japanese operations Dec 1941,No,/media/maps/static/
+Situation_on_Bataan_8_Jan_1942.jpg,Map,US Army CMH,https://history.army.mil/,Public Domain,$0,ACQUIRED,#3,Bataan defensive positions Jan 8,No,/media/maps/static/
+Mauban_Line.jpg,Map,US Army CMH,https://history.army.mil/,Public Domain,$0,ACQUIRED,#3,Mauban Line counterattacks Jan 18-25,No,/media/maps/static/
+Orion-BagacLine_BataanPhilippinesU.S.Positions_27January_1942.jpg,Map,US Army CMH,https://history.army.mil/,Public Domain,$0,ACQUIRED,#3,Main defensive line where lolo fought,No,/media/maps/static/
+Battle_of_the_Pockets_Orion-Bagac_Line_January-February1942.jpg,Map,US Army CMH,https://history.army.mil/,Public Domain,$0,ACQUIRED,#3,Battle of the Pockets Jan-Feb 1942,No,/media/maps/static/
+U.S.ArmyLines_Mount_Samat_Bataan_Philippines.jpg,Map,US Army CMH,https://history.army.mil/,Public Domain,$0,ACQUIRED,#3,Mount Samat positions,No,/media/maps/static/
+JapaneseAdvanceBataan_7–9_April_1942.jpg,Map,US Army CMH,https://history.army.mil/,Public Domain,$0,ACQUIRED,#3,Final Japanese breakthrough Apr 7-9,No,/media/maps/static/
+Fort_Mills_Corregidor.jpg,Map,US Army CMH,https://history.army.mil/,Public Domain,$0,ACQUIRED,Script #5 (future),Corregidor fortifications,No,/media/maps/static/
+JapaneseLandings_Corregidor_5–6May_1942.jpg,Map,US Army CMH,https://history.army.mil/,Public Domain,$0,ACQUIRED,Script #5 (future),Corregidor invasion May 5-6,No,/media/maps/static/
+pacific-theater-1942.jpg,Map,Historical/Public Domain,Various,Public Domain,$0,ACQUIRED,#1 #2,Pacific Theater overview 1942,No,/media/maps/static/
+asia-1944-map.jpg,Map,Historical/Public Domain,Various,Public Domain,$0,ACQUIRED,Script #5 (future),Asia 1944 strategic situation,No,/media/maps/static/
+Close-up carabao patch on uniform,Photo,NARA,https://catalog.archives.gov,Public Domain,$0,NEEDED,#1 #2,High-res close-up of patch on soldier,No,
+26th Cavalry Regiment in action,Photo,NARA/PICRYL,https://picryl.com/topics/battle+of+the+philippines+1941+42,Public Domain,$0,NEEDED,#3,26th Cavalry (last US cavalry charge),No,
+24th Field Artillery positions,Photo,NARA,https://catalog.archives.gov,Public Domain,$0,NEEDED,#3,Artillery crew/positions,No,
+Bataan defensive positions photos,Photo,NARA,https://catalog.archives.gov,Public Domain,$0,NEEDED,#3,Bunkers/trenches/foxholes,No,
+2LT Alexander Nininger photo,Photo,NARA/PS Heritage,https://catalog.archives.gov,Public Domain,$0,NEEDED,#3,Medal of Honor recipient,No,
+1LT Willibald Bianchi photo,Photo,NARA/PS Heritage,https://catalog.archives.gov,Public Domain,$0,NEEDED,#3,Medal of Honor recipient,No,
+45th Infantry Regiment photos,Photo,NARA,https://catalog.archives.gov,Public Domain,$0,NEEDED,#1 #3,Lolo's likely unit,No,
+57th Infantry Regiment photos,Photo,NARA,https://catalog.archives.gov,Public Domain,$0,NEEDED,#1 #3,Lolo's likely unit,No,
+Camp O'Donnell photos,Photo,NARA,https://catalog.archives.gov,Public Domain,$0,NEEDED,Script #4 (future),POW camp where Death March ended,No,
+Carabao in rice field B-roll,Footage,Videvo,https://www.videvo.net/stock-video-footage/carabao/,Free License,$0,NEEDED,#2,10-15 sec cinematic footage,No,
+Philippine countryside B-roll,Footage,Pexels,https://www.pexels.com/search/videos/rice%20field/,Free License,$0,NEEDED,#1 #2,Jungle/mountains/landscapes,No,
+Organizational chart graphic,Graphic,Create original,N/A,Original,$0,NEEDED,#2,Philippine Division structure diagram,No,
+Fields of fire diagram,Graphic,Create/Commission,N/A,Original,$0-200,NEEDED,#3,Tactical illustration for defense,No,
+Text overlays - Script 1,Graphic,Create original,N/A,Original,$0,NEEDED,#1,"Formed 1901, Strength 11972, etc.",No,
+Text overlays - Script 2,Graphic,Create original,N/A,Original,$0,NEEDED,#2,Organizational chart labels,No,
+Text overlays - Script 3,Graphic,Create original,N/A,Original,$0,NEEDED,#3,"MOH names, battle dates, etc.",No,
+Script 1 music track,Music,Epidemic Sound,https://www.epidemicsound.com/,Subscription,$15/mo,PENDING,#1,Military cadence 60-90s,Check terms,
+Script 2 music track,Music,Epidemic Sound,https://www.epidemicsound.com/,Subscription,$15/mo,PENDING,#2,Filipino-inspired 60-90s,Check terms,
+Script 3 music track,Music,Epidemic Sound,https://www.epidemicsound.com/,Subscription,$15/mo,PENDING,#3,Tense/tactical 90-120s,Check terms,

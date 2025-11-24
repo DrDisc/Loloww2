@@ -80,8 +80,16 @@ See `MEDIA-REQUIREMENTS.md` for full licensing details.
 
 ## Status
 
-**Last Updated:** 2025-11-22
-**Assets Acquired:** 0 / ~60-80 estimated
-**Total Budget Spent:** $0
+**Last Updated:** 2025-11-24
+**Assets Acquired:** 39 / ~60-80 estimated
+
+**Current Inventory:**
+- Photos: 21 files (Philippine Scouts: 7, Bataan: 10, Medal of Honor: 1, MacArthur: 3)
+- Maps: 16 tactical/strategic maps
+- Insignia: 1 unique SVG (Philippine Division carabao insignia)
+- Videos: 0
+- Music: 0
+
+**Total Budget Spent:** $0 (all public domain sources)
 
 See `MEDIA-CHECKLIST.md` for detailed progress tracking.

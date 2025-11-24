@@ -356,7 +356,7 @@ Respectfully,
 ## Follow-Up Actions
 
 ### If Records Are Found:
-1. ✅ Update `/family/felino-surpicio-research.md` with confirmed information
+1. ✅ Update `/family/sulpicio-maglanoc-research.md` with confirmed information
 2. ✅ Update `/family/unit-identification-analysis.md` with definitive unit
 3. ✅ Research his specific unit's history in detail
 4. ✅ Look for photos of his unit in NARA photo archives

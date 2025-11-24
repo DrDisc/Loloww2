@@ -271,7 +271,7 @@
 
 **Research Sources:**
 - `/research/philippine-scouts/philippine-scouts-comprehensive-research.md` (section 5)
-- `/family/felino-surpicio-research.md`
+- `/family/sulpicio-maglanoc-research.md`
 
 ---
 

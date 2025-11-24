@@ -567,4 +567,4 @@ Based on all documents:
 
 **This index connects all research in the repository. Use it as your navigation guide for the Lolo's War project.**
 
-Last updated: November 23, 2025
+Last updated: November 24, 2025
