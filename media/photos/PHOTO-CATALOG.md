@@ -234,7 +234,7 @@ Copyright: Public Domain / [Other]
 ```
 /media/photos/
   bataan/          ← Surrender, Death March, combat
-  insignia/        ← Carabao Division insignia
+  insignia/        ← Philippine Division insignia (carabao)
   medal-of-honor/  ← José Calugas
   philippine-scouts/ ← Training, pre-war
 ```

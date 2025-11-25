@@ -1,8 +1,10 @@
 # Video Short Script: The Carabao Division Explained
 
-**Duration:** 60-90 seconds  
-**Platform:** YouTube Shorts, TikTok, Instagram Reels  
+**Duration:** 60-90 seconds
+**Platform:** YouTube Shorts, TikTok, Instagram Reels
 **Tone:** Educational, cultural, engaging
+
+> **Note:** This script explains the Philippine Division (nicknamed the "Carabao Division" for its carabao insignia) and how the Philippine Scouts regiments (45th, 57th, 26th Cavalry, etc.) were organized within it alongside US Army units.
 
 ---
 

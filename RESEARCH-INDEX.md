@@ -163,7 +163,7 @@ This index connects all research documents, maps, photos, and sources to help yo
 - Formation (1901)
 - Organization and structure
 - Training and standards
-- **Carabao Division insignia** (your lolo's insignia)
+- **Philippine Division insignia** (carabao - your lolo's unit insignia)
 - Units:
   - **45th Infantry Regiment** (your lolo's likely unit)
   - **57th Infantry Regiment** (also likely)
@@ -187,7 +187,7 @@ This index connects all research documents, maps, photos, and sources to help yo
 **Analysis of**:
 - Sulpicio P. Maglanoc service
 - Birth date: May 2, 1922 (age 19 at war)
-- **Carabao Division insignia** (Philippine Division)
+- **Philippine Division insignia** (carabao - worn by Philippine Scouts regiments)
 - Likely units: 45th or 57th Infantry Regiment (Philippine Scouts)
 - Likely rank: Private or Private First Class
 - Captured April 9, 1942 (Bataan)

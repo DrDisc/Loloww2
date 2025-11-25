@@ -253,7 +253,7 @@
 - **Blockers:** None critical
 - **Recommendations:** Create text overlays, proceed with production
 
-#### Script #2: The Carabao Division
+#### Script #2: The Carabao Division Explained
 - **Status:** 40% ready
 - **Can produce:** PARTIAL
 - **Blockers:** Organizational chart (CRITICAL), B-roll footage (CRITICAL)

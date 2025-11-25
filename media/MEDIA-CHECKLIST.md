@@ -135,7 +135,7 @@
 - [ ] Duration: 60-90 seconds
 - [ ] License: YouTube/social media safe
 
-**Script #2: The Carabao Division**
+**Script #2: The Carabao Division Explained**
 - [ ] Filipino-inspired instrumentation (kulintang/bamboo)
 - [ ] Duration: 60-90 seconds
 - [ ] License: YouTube/social media safe

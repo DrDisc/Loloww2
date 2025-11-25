@@ -273,7 +273,7 @@ Updated "Last Updated" fields to current date (2025-11-24):
 
 ### Video Scripts: 3 of 8 Complete (37.5%)
 - ✅ Script #1: Philippine Scouts - Who Were They?
-- ✅ Script #2: The Carabao Division Explained
+- ✅ Script #2: The Carabao Division Explained (explains Philippine Division insignia)
 - ✅ Script #3: Bataan Defense Tactics
 - ⬜ Script #4: The Death March (planned)
 - ⬜ Script #5: POW Camps (planned)

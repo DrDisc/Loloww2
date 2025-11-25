@@ -85,7 +85,7 @@
 - 45th Infantry Regiment (PS) in action
 - 57th Infantry Regiment (PS) in action
 - Philippine Division training at Fort McKinley (pre-war)
-- Carabao Division insignia in use (on uniforms, flags)
+- Philippine Division insignia (carabao) in use (on uniforms, flags)
 
 #### **Where to find**:
 

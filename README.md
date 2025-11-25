@@ -52,7 +52,7 @@ This repository contains research, sources, and content for a long-form historic
 ### Thematic Focus
 - ✅ Battle tactics and military operations
 - ✅ Veteran testimonials and first-hand accounts
-- ✅ Philippine Scouts unit history and insignia (Carabao Division)
+- ✅ Philippine Scouts and Philippine Division history (carabao insignia)
 - ✅ Heroic resistance narratives
 - ⚠️ War atrocities (contextual coverage, balanced treatment)
 - ⚠️ Collaboration forces (only where tactically/historically relevant)
